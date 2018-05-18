@@ -1,0 +1,21 @@
+[31-Mar-2018 19:03:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home2/manipurstarlotte/public_html/application/controllers/Home.php on line 38
+[31-Mar-2018 19:05:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home2/manipurstarlotte/public_html/application/controllers/Home.php on line 38
+[31-Mar-2018 19:09:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home2/manipurstarlotte/public_html/application/controllers/Home.php on line 40
+[31-Mar-2018 23:37:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home2/manipurstarlotte/public_html/application/controllers/Home.php on line 125
+[01-Apr-2018 14:08:54 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home2/manipurstarlotte/public_html/application/views/Admin/Data_entry/lottery_edit_view.php on line 24
+[01-Apr-2018 18:39:54 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 56
+[01-Apr-2018 18:42:35 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 56
+[01-Apr-2018 18:47:50 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 62
+[01-Apr-2018 18:49:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 62
+[01-Apr-2018 19:03:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 70
+[01-Apr-2018 20:18:47 Asia/Kolkata] PHP Fatal error:  Call to a member function library() on null in /home2/manipurstarlotte/public_html/application/controllers/Admin/Lottery.php on line 7
+[03-Apr-2018 23:45:57 Asia/Kolkata] PHP Fatal error:  Call to a member function edit_user_detail() on null in /home2/manipurstarlotte/public_html/application/controllers/Admin/Admin.php on line 129
+[04-Apr-2018 00:19:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home2/manipurstarlotte/public_html/application/views/Admin/Layout/main.php on line 37
+[04-Apr-2018 00:19:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home2/manipurstarlotte/public_html/application/views/Admin/Layout/main.php on line 37
+[04-Apr-2018 00:19:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home2/manipurstarlotte/public_html/application/views/Admin/Layout/main.php on line 37
+[04-Apr-2018 00:19:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home2/manipurstarlotte/public_html/application/views/Admin/Layout/main.php on line 37
+[04-Apr-2018 00:19:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home2/manipurstarlotte/public_html/application/views/Admin/Layout/main.php on line 37
+[05-Apr-2018 15:27:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$active_lottery' (T_VARIABLE) in /home2/manipurstarlotte/public_html/application/views/User_view/new_lottery_number1.php on line 86
+[05-Apr-2018 15:55:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::viwe() in /home2/manipurstarlotte/public_html/application/views/Layout/Main1.php on line 27
+[06-Apr-2018 18:08:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/manipurstarlotte/public_html/application/views/Layout/Main1.php on line 164
+[07-Apr-2018 10:38:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/manipurstarlotte/public_html/application/views/User_view/previous_lottery_list.php on line 44
